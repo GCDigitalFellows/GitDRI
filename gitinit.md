@@ -4,7 +4,7 @@ Using `cd`, navigate inside the folder 'GitPractice.'
 
 Type `git init` and hit enter.
 
-This initializes the Git repository so it knows to pay attention to this folder. 
+This initializes a new Git repository so it knows to pay attention to this folder. 
 
 You should see something like `Initialized empty Git repository in /Users/gcdri/Desktop/GitPractice/.git/`
 
@@ -12,11 +12,11 @@ You should see something like `Initialized empty Git repository in /Users/gcdri/
 
 We are going to make our own cheatsheet as a plain text markdown file.
 
-Make sure you're navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
+Make sure you've navigated inside your GitPractice folder. Use `cd` or `cd ..` as needed.
 
 Type `touch gitcheat.md` The '.md' extension means "markdown." You can use `touch` to create other types of files too: `touch [name].[extension]`.
 
-### Start your file.
+### Start your file
 
 Open your gitcheat.md in your text editor. We have been using Sublime.
 

@@ -1,28 +1,17 @@
-# Collaboration and Tracking Workflows with Git and GitHub
+# Git
 
-**Workshop Goal**: Create a Git repository on your computer, add files, and push this repository to your GitHub.
+Git is a powerful version control system used to save the state of files and folders, work with collaborators remotely, and pull in code from open source repositories. Git is a version control system, and its most important function is to save snapshots of the files present in a project folder, called a repository. Git repositories can be pushed and pulled to and from the cloud, allowing you to work on complex projects without interfering with the contributions of your collaborators. Git, and the online service GitHub, are largely responsible for the current upswing in open source contributions, and the tool substantially reduces the risk and friction that comes with working on large or complex projects.
 
-Learn what makes Github such a powerful tool for both collaborative and individual projects in this introductory workshop. We will provide a conceptual overview of Git and Github, learn the basics of how to get started, and explore practical applications of Github for writing and computational workflows. This workshop will be applicable for a wide range of digital undertakings, from developing code, to working with datasets, to drafting public policy, and beyond.
-
-![alt text][versionphdcomics]
-
-[versionphdcomics]: https://github.com/jentang/GitDRI/blob/master/images/versionphdcomics.jpg "how Git's version control power can save you stress"
-
-This repository houses materials related to the Git Workshop offered at the GC Digital Research Institute in June 2016 taught by Jennifer Tang, and Stephen Zweibel.
-
-[Workshop outline](outline.md)  
-[Review of the command line](commandline.md)  
-[What is Git, GitHub and Markdown?](concept.md)  
-[Configure Git](gitconfig.md)  
+[Git vs. GitHub](gitvsgithub.md)  
+[Configuration](gitconfig.md)  
 [Initialize Git](gitinit.md)  
 [Connecting to GitHub](github.md)  
 [Git add, commit, and push](gitaction.md)  
 [Git for collaboration: cloning and pulling](gitpull.md)  
 
-_MASSIVE_ Thanks to **[Mary Catherine McKinniburgh](https://github.com/mckinniburgh/gitWorkshop)**, on whose shoulders I am standing to learn and run this workshop. And Patrick Smyth and Hannah Aizenman who have been indespensible sources of knowledge and support.  
+For more: [Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text Using Pandoc and Markdown."](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
 
----  
-If you ever get lost, at the bottom of each file here, you will find links to these:
+
 [Glossary](glossary.md) ~ ~ ~ [Helpful commands](helpfulcommands.md)
 
 [Direct link to Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
